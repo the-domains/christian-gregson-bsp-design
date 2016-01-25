@@ -1,7 +1,7 @@
 name: Christian Gregson BSP Design
 favicon: null
 layout_spectrum: 0.13884187396615744
-typography_spectrum: 0.11692343675531447
+typography_spectrum: 0.58971
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.38707807823084295
+  brandStrength: 0.3125
   lightness: 0.9572748923674226
   saturation: 0.12230119318701327
   rhythmicContrast: 0.040090375347062945
